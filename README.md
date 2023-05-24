@@ -3,4 +3,4 @@
 - 🌱 I'm currently learning Python
 
 
-<img src="https://cutewallpaper.org/28/cyberpunk-gif-wallpaper/virtuaverse-cyberpunk-and-pixels-cool-pixel-art-desktop-wallpaper-art-pixel-art.gif" width="1000" height="400" />
+<img src="https://i.pinimg.com/originals/7a/fd/d6/7afdd6915a8219f5dcdb89ff990a9a72.gif" width="1000" height="400" />
