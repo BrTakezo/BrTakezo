@@ -3,4 +3,4 @@
 - 🌱 I'm currently learning Python
 
 
-<img src="https://i.pinimg.com/originals/7a/fd/d6/7afdd6915a8219f5dcdb89ff990a9a72.gif" width="1000" height="400" />
+<img src="https://i.pinimg.com/originals/6d/78/71/6d78711d7c8438405ee8a5a50114f9ac.gif" width="1000" height="400" />
